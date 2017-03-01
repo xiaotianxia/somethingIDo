@@ -10,7 +10,7 @@
 [pc端](http://prpr.bobo.com/special/active-yinyangshi/)
 
 ##prpr新年祭
-[pc端](https://prpr.bobo.com/special/prprnewyearweb/)
+[pc端](http://prpr.bobo.com/special/prprnewyearweb/)
 
 #BoBo专题活动
 ##情人节活动
